@@ -3,8 +3,9 @@ package sort.heapsort;
 import java.util.Arrays;
 
 /**
+ * not stability
  * @Classname HeapSort
- * @Description TODO
+ * @Description non
  * @Date 2021/6/11 12:15 上午
  * @Created by apple
  */

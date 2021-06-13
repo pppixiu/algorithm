@@ -2,7 +2,7 @@ package sort.mergesort;
 
 /**
  * @Classname CountOfRangeSum
- * @Description TODO
+ * @Description non
  * @Date 2021/6/6 12:19 上午
  * @Created by apple
  */

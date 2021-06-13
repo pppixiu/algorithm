@@ -7,8 +7,9 @@ import java.util.List;
 
 /**
  * greater heap
+ *
  * @Classname HeapGreater
- * @Description TODO
+ * @Description non
  * @Date 2021/6/13 10:54 上午
  * @Created by apple
  */
@@ -40,7 +41,6 @@ public class HeapGreater<T> {
     public T peek() {
         return heap.get(0);
     }
-
 
     public void push(T obj) {
         heap.add(obj);
@@ -83,7 +83,6 @@ public class HeapGreater<T> {
         heapify(indexMap.get(obj));
     }
 
-
     public List<T> getAllElements() {
         return new ArrayList<>(heap);
     }
@@ -121,8 +120,6 @@ public class HeapGreater<T> {
     }
 
     /**
-     * 比较
-     *
      * @param i index i
      * @param j index j
      * @return whether heap(i) smaller than heap(j)

@@ -6,7 +6,7 @@ import sort.SortHelper;
  * 普通 归并排序
  *
  * @Classname MergeSortNormal
- * @Description TODO
+ * @Description non
  * @Date 2021/5/29 10:39 下午
  * @Created by apple
  */
