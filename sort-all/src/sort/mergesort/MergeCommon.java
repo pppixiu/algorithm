@@ -2,7 +2,7 @@ package sort.mergesort;
 
 /**
  * @Classname Common
- * @Description TODO
+ * @Description non
  * @Date 2021/5/29 10:41 下午
  * @Created by apple
  */

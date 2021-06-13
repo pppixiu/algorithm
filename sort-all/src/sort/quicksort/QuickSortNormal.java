@@ -6,7 +6,7 @@ import java.util.Stack;
 
 /**
  * @Classname QuickSortNormal
- * @Description TODO
+ * @Description non
  * @Date 2021/6/14 12:45 上午
  * @Created by apple
  */

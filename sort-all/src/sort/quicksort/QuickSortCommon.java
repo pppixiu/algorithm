@@ -2,7 +2,7 @@ package sort.quicksort;
 
 /**
  * @Classname QuickSortCommon
- * @Description TODO
+ * @Description non
  * @Date 2021/6/14 12:46 上午
  * @Created by apple
  */

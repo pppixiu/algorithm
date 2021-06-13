@@ -6,7 +6,7 @@ import sort.SortHelper;
  * not stability
  *
  * @Classname QuickSort
- * @Description TODO
+ * @Description non
  * @Date 2021/6/13 5:23 下午
  * @Created by apple
  */
