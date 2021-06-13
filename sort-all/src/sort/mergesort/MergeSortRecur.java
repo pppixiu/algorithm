@@ -3,7 +3,8 @@ package sort.mergesort;
 import sort.SortHelper;
 
 /**
- * 递归 归并排序
+ * stability
+ *
  * @Classname MergeSort
  * @Description TODO
  * @Date 2021/5/28 12:21 上午
