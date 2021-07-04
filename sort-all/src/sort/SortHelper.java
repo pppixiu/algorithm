@@ -16,6 +16,15 @@ public class SortHelper {
         return arr;
     }
 
+    public static int[] generatePositiveArr(int maxSize, int maxValue) {
+        int arr[] = new int[(int) ((maxSize + 1) * Math.random())];
+
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = (int) ((maxValue + 1) * Math.random());
+        }
+        return arr;
+    }
+
     public static void judge(int[] arr) {
         for (int i = 0; i < arr.length - 1; i++) {
             if (arr[i] > arr[i + 1]) {
