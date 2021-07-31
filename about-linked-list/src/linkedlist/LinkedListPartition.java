@@ -11,7 +11,7 @@ package linkedlist;
  * @Date 2021/7/4 3:09 下午
  * @Created by apple
  */
-public class LInkedListPartition {
+public class LinkedListPartition {
 
     public static class Node {
         public int value;
