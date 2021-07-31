@@ -2,7 +2,6 @@ package traverse;
 
 import common.BTCommon;
 import common.CommonNode;
-import javafx.scene.control.TableRow;
 
 import java.util.LinkedList;
 import java.util.Queue;
